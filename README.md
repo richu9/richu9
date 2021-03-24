@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richu9
-- 👀 I’m interested in  Freelance in web development,cyber security and penetration tests.
-- 🌱 I’m currently learning Web development using css,html amd javascript....
-- 💞️ I’m looking to collaborate on My fellow IT enthusiasts
+- 👀 I’m interested in  Freelance in web development,cyber security and penetration tests,Data analysis using statistic softwares such as; R-software, SPSS and STATA
+- 🌱 I’m currently learning Web development using css,html and javascript.
+- 💞️ I’m looking to collaborate on My fellow IT enthusiasts and statisticians
 - 📫 How to reach me:reechyard@gmail.Com
 
 <!---
